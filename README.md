@@ -1,2 +1,2 @@
-# databucks.github.io
+# databucks.ai
 web site for databucks.ai
