@@ -1,6 +1,6 @@
-Email info@databucks.ai for more information.
+# Welcome to Databucks.ai
 
-##Blog Posts##
+## Blog Posts
 <ul>
   {% for post in site.posts %}
     <li>
@@ -8,3 +8,7 @@ Email info@databucks.ai for more information.
     </li>
   {% endfor %}
 </ul>
+
+## Info
+Email info@databucks.ai for more information.
+
