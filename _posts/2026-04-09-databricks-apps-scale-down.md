@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Stop Paying for Idle Databricks Apps: How to Scale Down When Nobody's Watching"
-date: 2026-04-09
+date: 2026-04-10
 categories: [databricks, cost-optimization, apps]
 tags: [databricks, apps, cost, scaling, idle, streamlit, gradio]
 ---
