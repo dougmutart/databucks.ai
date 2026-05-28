@@ -4,6 +4,7 @@ title: "Why Serverless is the Right Compute for AI-Ready Data in Databricks"
 date: 2026-04-09
 categories: [databricks, cost-optimization, ai]
 tags: [databricks, serverless, genie-spaces, vector-search, mcp, ai, cost]
+author: "Doug M."
 ---
 
 The way teams use Databricks has shifted. It used to be primarily a batch processing and ETL platform — you'd spin up a cluster, run your pipeline, shut it down. Predictable workloads, predictable cost.

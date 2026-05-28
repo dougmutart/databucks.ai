@@ -4,6 +4,7 @@ title: "Cut Your Azure Bill: Use Service Endpoints for Databricks Storage Access
 date: 2026-04-09
 categories: [azure, databricks, cost-optimization]
 tags: [azure, databricks, adls, service-endpoints, networking, cost]
+author: "Doug M."
 ---
 
 Every byte of data your Databricks clusters read from Azure Storage travels a path — and that path determines whether you pay for it. If your workloads are moving significant volumes of data and you haven't configured **Azure Service Endpoints** (or Private Endpoints), you may be paying for egress traffic you could eliminate entirely.

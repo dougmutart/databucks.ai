@@ -4,6 +4,7 @@ title: "Stop Paying for Idle Databricks Apps: How to Scale Down When Nobody's Wa
 date: 2026-04-10
 categories: [databricks, cost-optimization, apps]
 tags: [databricks, apps, cost, scaling, idle, streamlit, gradio]
+author: "Doug M."
 ---
 
 Databricks Apps is a genuinely great way to deploy interactive data applications — Streamlit dashboards, Gradio ML demos, custom Flask APIs — directly inside your Databricks workspace, with Unity Catalog access and OAuth baked in. No separate infrastructure, no ingress controllers, no Docker registries to manage.
